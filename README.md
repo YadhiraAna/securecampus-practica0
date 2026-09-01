@@ -15,3 +15,9 @@ prácticas de Desarrollo Seguro.
 - Integrante 3
 - Integrante 4
 
+
+
+## Seguridad
+
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
+
